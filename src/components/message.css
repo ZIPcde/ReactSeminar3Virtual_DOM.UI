@@ -1,0 +1,18 @@
+.messages1 {
+    width: 500px;
+    border: 1px solid green;
+    margin: 0 auto;
+    color: green;
+}
+.messages2 {
+    width: 500px;
+    border: 1px solid red;
+    margin: 0 auto;
+    color: red;
+}
+.messages3 {
+    width: 500px;
+    border: 1px solid blue;
+    margin: 0 auto;
+    color: blue;
+}

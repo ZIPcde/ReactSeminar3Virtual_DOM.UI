@@ -1,12 +1,13 @@
+import "./App.css";
 import { Message } from "./components/message.jsx";
 
 function App() {
   return (
     <>
-      <h1> Hello world!</h1>
-      <Message message="First props"/>
-      <Message message="Second props"/>
-      <Message message="Third props"/>
+      <h1 className="appstyle"> Hello world! _App.js_</h1>
+      <Message message="First props" style="messages1" />
+      <Message message="Second props" style="messages2" />
+      <Message message="Third props" style="messages3" />
     </>
   );
 }
